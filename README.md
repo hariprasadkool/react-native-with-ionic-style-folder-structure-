@@ -5,4 +5,14 @@ Get started with react native with ionic folder structure especially for ionic d
 ```
   node version >=  v8.9.4
   npm version >=  v5.6.0
+
+
+Inside App folder
+
+  npm install -g react-native-cli
+  npm install
+
+  npm run start
+  react-native run-android
+
 ``` 
