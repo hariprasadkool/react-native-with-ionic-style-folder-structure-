@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import { Platform,TouchableOpacity} from 'react-native';
 import Icon from 'react-native-vector-icons/Ionicons';
-import { StackNavigator } from "react-navigation";
+import { StackNavigator } from 'react-navigation';
 
 // Pages
 import Home from './src/pages/home/home';
 import Profile from './src/pages/profile/profile';
-import Drawer  from "./Drawer";
+import Drawer  from './Drawer';
 
 
 const Navigation = StackNavigator(
@@ -14,7 +14,7 @@ const Navigation = StackNavigator(
     Drawer: {
       screen: Drawer,
       navigationOptions:({navigation}) => ({
-      title: "WoWCricket",
+      title: "Header",
         headerLeft:(
           <TouchableOpacity onPress={() => navigation.navigate("DrawerOpen")}>
             <Icon name="ios-menu" size={30} />

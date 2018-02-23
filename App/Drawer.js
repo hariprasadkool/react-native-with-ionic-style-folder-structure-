@@ -21,7 +21,7 @@ const Drawer = DrawerNavigator(
       screen: Profile,
       navigationOptions: {
         drawerLabel: "Profile",
-        drawerIcon: ({ tintColor }) => <Icon name="home" size={24} />
+        drawerIcon: ({ tintColor }) => <Icon name="person" size={24} />
       }
     }
   }

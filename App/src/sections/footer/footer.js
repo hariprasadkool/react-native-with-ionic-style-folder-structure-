@@ -28,8 +28,8 @@ export default class Footer extends Component<Props> {
               <Text style={styles.tabTitle}>Home</Text>
             </TouchableOpacity>
             <TouchableOpacity style={styles.tabItem} onPress={ProfileTab}>
-              <Icon name="folder" size={25}/>
-              <Text style={styles.tabTitle}>Alert</Text>
+              <Icon name="person" size={25}/>
+              <Text style={styles.tabTitle}>Profile</Text>
             </TouchableOpacity>
           </View>
         </View>

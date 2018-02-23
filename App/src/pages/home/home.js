@@ -28,10 +28,10 @@ export default class Home extends Component<Props> {
     const navigate = this.props.navigation.navigate;
       return (
         <View style={styles.container}>
-          <View style={styles.body}>
-          <Text style={styles.instructions}>
-            {instructions}
-          </Text>
+          <View style={{flex:1,alignItems:'center',justifyContent:'center'}}>
+            <Text>
+              {instructions}
+            </Text>
           </View>
           <Footer   
            HomeTab = {() => navigate('Home') }
