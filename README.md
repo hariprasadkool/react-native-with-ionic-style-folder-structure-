@@ -25,7 +25,9 @@ Inside App folder
 ``` 
 RUNBOOK-
 
-If vectorIcons error comes use this command to resolve 
+1) If react native vector icons error comes use this command to resolve 
+
 ```
   rm ./node_modules/react-native/local-cli/core/__fixtures__/files/package.json
+  
 ```
