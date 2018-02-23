@@ -11,7 +11,7 @@ Inside App folder
 
   npm install -g react-native-cli
   npm install
-
+  react-native link
   npm run start
   react-native run-android
 
