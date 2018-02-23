@@ -12,10 +12,7 @@ Inside App folder
   npm install -g react-native-cli
   npm install
 
-  npm install --save @shoutem/ui
-  
-  npm install --save react-native-vector-icons 
-  rm ./node_modules/react-native/local-cli/core/__fixtures__/files/package.json
+
 
   react-native link
   
@@ -25,3 +22,9 @@ Inside App folder
 
   
 ``` 
+RUNBOOK-
+
+If vectorIcons error comes use this command to resolve 
+```
+  rm ./node_modules/react-native/local-cli/core/__fixtures__/files/package.json
+```
