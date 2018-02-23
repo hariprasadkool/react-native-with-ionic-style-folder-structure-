@@ -12,7 +12,16 @@ Inside App folder
   npm install -g react-native-cli
   npm install
 
+  npm install --save @shoutem/ui
+  
+  npm install --save react-native-vector-icons 
+  rm ./node_modules/react-native/local-cli/core/__fixtures__/files/package.json
+
+  react-native link
+  
+  
   npm run start
   react-native run-android
 
+  
 ``` 
