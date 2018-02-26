@@ -43,6 +43,22 @@ Go Inside the App folder-
   rm ./node_modules/react-native/local-cli/core/__fixtures__/files/package.json
 
 ``` 
+
+```
+File Structure inside App folder
+
+/android - Android native stuff
+/ios - iOS native stuff
+/src - Contains our React Native App codebase
+    /assets - Images, Fonts and others
+    /pages - all the pages or screens in the app
+    /section - section of the page that are used all over the app like header and footer
+/App.js - Base component for navigation between the screens or pages
+/Drawer.js - side menu or drawer
+/index.js - Entry point for the App
+
+
+```
 ## Included
 - [x] [Icons](https://material.io/icons/)
 - [x] [UI ToolKit](https://shoutem.github.io/docs/ui-toolkit/components/typography)
