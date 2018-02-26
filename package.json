@@ -1,0 +1,25 @@
+{
+  "name": "react-native-with-ionic-style-folder-structure",
+  "version": "0.0.2",
+  "description": "working on react-native with ionic folder structure and themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariprasadkool/react-native-with-ionic-style-folder-structure-.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-ionic",
+    "react-native-ionic-style",
+    "react-ionic"
+  ],
+  "author": "hariprasadkool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariprasadkool/react-native-with-ionic-style-folder-structure-/issues"
+  },
+  "homepage": "https://github.com/hariprasadkool/react-native-with-ionic-style-folder-structure-#readme"
+}
