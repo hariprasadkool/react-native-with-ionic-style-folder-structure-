@@ -44,8 +44,9 @@ Go Inside the App folder-
 
 ``` 
 
+## File Structure inside App folder
+
 ```
-File Structure inside App folder
 
 /android - Android native stuff
 /ios - iOS native stuff
