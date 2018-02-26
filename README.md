@@ -28,7 +28,9 @@ Inside App folder
   npm run start
   react-native run-android
 
+  
 ``` 
+
 
 RUNBOOK-
 
@@ -54,4 +56,5 @@ Go Inside the App folder-
 ## License
 
 MIT
+
 
