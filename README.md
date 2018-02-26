@@ -41,6 +41,16 @@ Go Inside the App folder-
 
 ``` 
 
+## Related
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Icons used for this module
+- [react-navigation](https://github.com/react-navigation/react-navigation) - Navigation between pages 
+- [@shoutem/ui](https://github.com/shoutem/ui) - Using Shoutem UI for element UI Toolkit
+
+## Maintainers
+
+- [hariprasadkool](https://github.com/hariprasadkool)
+
+
 ## License
 
 MIT
