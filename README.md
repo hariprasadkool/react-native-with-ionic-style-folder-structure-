@@ -42,6 +42,20 @@ Go Inside the App folder-
   rm ./node_modules/react-native/local-cli/core/__fixtures__/files/package.json
 
 ``` 
+## Included
+- [x] [Icons](https://material.io/icons/)
+- [x] [UI ToolKit](https://shoutem.github.io/docs/ui-toolkit/components/typography)
+- [x] [Drawer](https://reactnavigation.org/docs/drawer-based-navigation.html)
+- [x] [Navigation to Pages](https://reactnavigation.org/docs/navigating.html)
+
+
+## Roadmap
+- [ ] Add Themes Page
+- [ ] Add buttons
+- [ ] Add Component folder
+- [ ] Optimise and Destructure the code for better readability and scalability
+- [ ] Something you's like to see? Submit an [issue](https://github.com/hariprasadkool/react-native-with-ionic-style-folder-structure-/issues) or a [pull request](https://github.com/hariprasadkool/react-native-with-ionic-style-folder-structure-/pulls)
+
 
 ## Related
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Icons used for this module
